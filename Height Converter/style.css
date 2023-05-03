@@ -1,0 +1,44 @@
+#container{
+    display: grid;
+    grid-template-columns: 1rf;
+    width: 375px;
+    height: 425px;
+    margin-left: auto;
+    background-color: #000;
+    color: #fff;
+}
+
+#pies{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+#pulgadas{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px; 
+}
+
+#resultado{
+    font-size: 35px;
+    margin-left: 60px;
+    color: yellow;
+}
+
+#submit{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: red;
+    color: #fff;
+    font-size: 25px;
+}
+h1{
+    padding-left: 15px;
+    padding-top: 25px;
+}
